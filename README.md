@@ -1,6 +1,6 @@
 # craft.bio ⛏️
 
-A **guns.lol-style bio page**, Minecraft-themed, built with **React + TypeScript + Vite**.
+A **bio page**, Minecraft-themed, built with **React + TypeScript + Vite**.
 
 Splash "click to enter" gate · a living field of **real procedurally-textured Minecraft
 blocks** (solid 6-face cubes, no copyrighted assets) · full-body skin render · enchanted
